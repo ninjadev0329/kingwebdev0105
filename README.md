@@ -19,7 +19,6 @@ I have contributed to the development of many successful sites by using many of 
 - 📫 Feel free to ask me about anything, I am very happy to be of help
 
 **Connect with me:**
-- 📠 Skype: <a href="skype:smartwebdev?chat">smartwebdev</a>
 - 📝 Chatwork: [smart-web-dev](https://www.chatwork.com/#!rid244306555)
 - 💬 Discord : [smart-web-dev727#7346](https://discordapp.com/users/886420115241984012/)
 - 💌 Email : [tonyblake1125@gmail.com]()
