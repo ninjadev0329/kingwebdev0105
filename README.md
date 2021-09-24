@@ -1,10 +1,10 @@
 
-### Hey 👋🏽, I'm [BlockchainGuru125](https://t.me/blockchainGuru125)  
+### Hello 👋🏽, I'm [Kingwebdev0105](https://github.com/kingwebdev0105/).
 
 <br/>
 
-Hi, I'm BlockchainGuru125, a Blockchain and Cryptocurrency Developer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, DEFI and NFT marketplace. I develop website using React.js, Redux, web3.js, Vue.js, Express, Node.js, Laravel and etc.
-I have developed many successful sites so far with mentioned skills.
+Hi, I'm Kingwebdev0105, a Blockchain and Cryptocurrency Engineer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, deFI and NFT marketplace. I develop web-based systems using web programming languages and frameworks such as React.js, Redux, web3.js, Vue.js, Express, Node.js, and Laravel.
+I have contributed to the development of many successful sites by using many of the techniques mentioned so far.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
   
@@ -15,12 +15,14 @@ I have developed many successful sites so far with mentioned skills.
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform
-- 🌱 I’m currently learning Cloud Computing
-- 📫 Ask me about anything, I am happy to help
+- 🌱 I’m currently learning VR & AR & AI
+- 📫 Feel free to ask me about anything, I am very happy to be of help
 
 **Connect with me:**
-- 💬 Telegram : [@blockchainGuru125](https://t.me/blockchainGuru125)
-- 📝 Email : blockchainguru125@gmail.com
+- 📠 Skype: <a href="skype:smartwebdev?chat">smartwebdev</a>
+- 📝 Chatwork: [smart-web-dev](https://www.chatwork.com/#!rid244306555)
+- 💬 Discord : [smart-web-dev727#7346](https://discordapp.com/users/886420115241984012/)
+- 💌 Email : [tonyblake1125@gmail.com]()
 
 **Languages and Tools:**   
 
@@ -35,9 +37,9 @@ I have developed many successful sites so far with mentioned skills.
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=blockchainGuru125&show_icons=true&theme=radical)
+**My Github Activity Status:**   
+
+![Sanket's github stats](https://github-readme-stats.vercel.app/api?username=kingwebdev0105&show_icons=true&theme=radical)
 
 
-
-
-⭐️ From [blockchainGuru125](https://github.com/blockchainGuru125)
+⭐️ From [kingwebdev0105](https://github.com/kindwebdev0105)
