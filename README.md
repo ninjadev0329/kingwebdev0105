@@ -19,10 +19,7 @@ I have contributed to the development of many successful sites by using many of 
 - 📫 Feel free to ask me about anything, I am very happy to be of help
 
 **Connect with me:**
-- 📝 Chatwork: [smart-web-dev](https://www.chatwork.com/#!rid244306555)
-- 💬 Discord : [smart-web-dev727#7346](https://discordapp.com/users/886420115241984012/)
-- 💌 Email : [yoshirodev311@gmail.com]()
-- 📭 Telegram : [smartwebdev16](https://t.me/smartwebdev16)
+- 💌 Email : [deutsch991212@gmail.com]()
 
 **Languages and Tools:**   
 
