@@ -3,7 +3,7 @@
 
 <br/>
 
-Hi, I'm Kingwebdev0105, a Blockchain and Cryptocurrency Engineer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, deFI and NFT marketplace. I develop web-based systems using web programming languages and frameworks such as React.js, React Native, Redux, web3.js, Vue.js, Express, Node.js, and Laravel.
+Hi, I'm Kingwebdev0105, a Blockchain and Cryptocurrency Engineer 🚀, currently, I have rich experience with Blockchain, Ethereum, Yield Farming, Smart Contract, deFI and NFT marketplace. I develop web-based systems using web programming languages and frameworks such as React.js, Redux, web3.js, Vue.js, Express, Node.js, and Laravel.
 I have contributed to the development of many successful sites by using many of the techniques mentioned so far.
 
 ####      ![](https://img.shields.io/badge/Blockchain-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Solidity-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Typescript-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/Web3.js-%7C-yellowgreen) ![](https://img.shields.io/badge/Smart%20Contracts-%7C-blue) ![](https://img.shields.io/badge/Cryptocurrency-%7C-ff69b4)
@@ -19,7 +19,10 @@ I have contributed to the development of many successful sites by using many of 
 - 📫 Feel free to ask me about anything, I am very happy to be of help
 
 **Connect with me:**
-- 💌 Email : [deutsch991212@gmail.com]()
+- 📝 Chatwork: [smart-web-dev](https://www.chatwork.com/#!rid244306555)
+- 💬 Discord : [smart-web-dev727#7346](https://discordapp.com/users/886420115241984012/)
+- 💌 Email : [yoshirodev311@gmail.com]()
+- 📭 Telegram : [smartwebdev16](https://t.me/smartwebdev16)
 
 **Languages and Tools:**   
 
