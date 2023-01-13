@@ -18,7 +18,7 @@ I like to code because it allows me to create and build things that have a pract
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 When I'm not coding, besides playing sports and games.
+- 👨🏽‍💻 When I'm not coding, besides playing sports I am reading Dev.To and Medium article.
 - 🌱 I’m currently learning VR & AR & AI
 
 **Connect with me:**
