@@ -50,4 +50,4 @@ I like to code because it allows me to create and build things that have a pract
 
 
 ⭐️ From [kingwebdev0105](https://github.com/kindwebdev0105)
-<p><a href="https://www.linkedin.com/in/mike-m-veckovic-68656742/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p><a href="[https://www.linkedin.com/in/yoshiro-morino-25265b222](https://www.linkedin.com/in/yoshiro-morino-25265b222)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
