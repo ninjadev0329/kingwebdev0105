@@ -1,5 +1,5 @@
 
-### Hello 👋🏽, I'm [Yoshiro Morino](https://github.com/kingwebdev0105/)
+### Hello 👋🏽, I'm [Yoshiro Morino](https://github.com/ninjadev0329/)
 -------------------------------------
 
 Full Stack Developer / Web3 Developer
@@ -49,5 +49,5 @@ I like to code because it allows me to create and build things that have a pract
 </p>
 
 
-⭐️ From [kingwebdev0105](https://github.com/kingwebdev0105)
+⭐️ From [ninjadev0329](https://github.com/ninjadev0329)
 <p><a href="https://www.linkedin.com/in/yoshiro-morino-25265b222/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
