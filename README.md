@@ -4,7 +4,7 @@
 
 Full Stack Developer / Web3 Developer
 -----------------------------------
-I have 7 years of experience building and designing web-based applications. Currently, I love to work on web application using technologies like React JS, Vue JS, Angular, Tailwind, Next JS, Solidity and Hardhat. 
+I have 6 years of experience building and designing web-based applications. Currently, I love to work on web application using technologies like React JS, Vue JS, Angular, Tailwind, Next JS, Solidity and Hardhat. 
 
 <b><u>Why I like to code</u></b>
 
